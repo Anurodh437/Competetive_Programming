@@ -23,4 +23,4 @@ for _ in range(Ii()):
             else:
                 res = 0
         if count==0:
-            print("NO")    
+            print("NO")
