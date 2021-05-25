@@ -22,6 +22,7 @@ def primecheck(a):
 #                 prime_list.append(j)
 #     return len(lst1)
 for _ in range(Ii()):
+    #Main
     x,y = Mi()
     if primecheck(x) <= y:
         print("Chef")
