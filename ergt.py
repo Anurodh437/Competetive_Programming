@@ -12,7 +12,6 @@ def prime(n):
 def primecheck(a):
     primes = [n for n in range(2,a+1) if prime(n)]
     return len(primes)
-# from math import ceil,sqrt
 # def primecheck(n):
 #     prime_list = []
 #     lst =[]
