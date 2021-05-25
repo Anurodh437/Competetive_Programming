@@ -23,7 +23,6 @@ def primecheck(a):
 #     return len(lst1)
 for _ in range(Ii()):
     x,y = Mi()
-    #print(primecheck(x))
     if primecheck(x) <= y:
         print("Chef")
     else:
