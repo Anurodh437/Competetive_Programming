@@ -21,8 +21,10 @@ def primecheck(a):
 #             for j in range(i*i, n+1, i):
 #                 prime_list.append(j)
 #     return len(lst1)
+
+
+#Driver Code
 for _ in range(Ii()):
-    #Main
     x,y = Mi()
     if primecheck(x) <= y:
         print("Chef")
